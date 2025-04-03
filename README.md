@@ -13,6 +13,10 @@ CSS – Styling and UI design
 
 JavaScript – Controls the play/pause functionality
 
+📺 Watch
+
+https://github.com/user-attachments/assets/9c83aec4-3851-4a5c-955c-7ff162e2f841
+
 📷 Screenshot
 ![image](https://github.com/user-attachments/assets/d4990e0e-056c-4f34-8558-4b37fe6eb8c5)
 
